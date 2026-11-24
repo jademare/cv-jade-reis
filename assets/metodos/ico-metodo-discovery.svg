@@ -1,0 +1,6 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<!-- product discovery – validar o problema: lupa com check coral dentro -->
+<circle cx="27" cy="27" r="13" stroke="#0B284D" stroke-width="1.8"/>
+<path d="M37 37 L50 50" stroke="#0B284D" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M21 27.5 L25.5 32 L33.5 22.5" stroke="#D63F28" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

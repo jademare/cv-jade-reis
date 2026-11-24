@@ -1,0 +1,10 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<!-- OKR – uma ambição, três resultados: alvo no centro + 3 pontos de resultado ao redor -->
+<circle cx="32" cy="32" r="14" stroke="#0B284D" stroke-width="1.8"/>
+<circle cx="32" cy="32" r="5" fill="#D63F28"/>
+<path d="M32 18 V10 M46 32 H54 M32 46 V54 M18 32 H10" stroke="#0B284D" stroke-width="1.8" stroke-linecap="round"/>
+<circle cx="32" cy="8" r="2.4" fill="#D63F28"/>
+<circle cx="56" cy="32" r="2.4" fill="#D63F28"/>
+<circle cx="32" cy="56" r="2.4" fill="#D63F28"/>
+<circle cx="8" cy="32" r="2.4" fill="#D63F28"/>
+</svg>

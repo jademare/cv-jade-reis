@@ -1,0 +1,10 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<!-- teoria da mudança – cadeia causa-efeito: ação → mudança → impacto (nó final coral) -->
+<circle cx="15" cy="32" r="5" stroke="#0B284D" stroke-width="1.8"/>
+<circle cx="32" cy="32" r="5" stroke="#0B284D" stroke-width="1.8"/>
+<path d="M22.5 32 H27.5" stroke="#0B284D" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M27.5 32 l-4 -2.5 M27.5 32 l-4 2.5" stroke="#0B284D" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M39.5 32 H44.5" stroke="#0B284D" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M44.5 32 l-4 -2.5 M44.5 32 l-4 2.5" stroke="#0B284D" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="49" cy="32" r="5" fill="#D63F28"/>
+</svg>
